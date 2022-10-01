@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Marteenahk
+- 👀 I’m interested in gaming and learning new things 
+- 🌱 I’m currently learning C#
